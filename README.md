@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Jeremy O. Rellama</h2>
-<h3 align="left">BSIT-4A Student</h3>
 
 ###
 
@@ -20,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB87SSp2lFKJvcXlgWMkohUIb1vIvpROEWxQ&s" height="30" alt="dart logo"  />
   <img width="12" />
 </div>
 
